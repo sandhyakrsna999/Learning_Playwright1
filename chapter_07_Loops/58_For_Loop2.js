@@ -8,21 +8,21 @@
 //     console.log(_1);
 // }
 
-// for (let pramod = 0; pramod > 1; pramod++) {
-//     console.log(pramod);
+//for (let sandhya = 0; sandhya > 1; sandhya++) {
+//  console.log(sandhya);
 // }
 
 
-// for (let pramod = 0; ; pramod++) {
-//     console.log(pramod);
-// }
+//for (let sandhya = 0; ; sandhya++) {
+//    console.log(sandhya);
+//}
 
-// for (let somya = 0; somya < 18; somya++) {
-//     if (somya > 15) {
-//         console.log("Gift from papa, iphone this year")
-//     } else {
-//         console.log("No Gift, iphone only barbie doll")
-//     }
+//for (let somya = 0; somya < 18; somya++) {
+//  if (somya > 15) {
+//   console.log("Gift from papa, iphone this year")
+// } else {
+//     console.log("No Gift, iphone only barbie doll")
+// }
 
 // }
 
