@@ -40,7 +40,7 @@
 // console.log(a);
 
 let a = 10;
-// let r = a--;
-let r2 = --a;
-// console.log(r);
-console.log(r2);
+let r = a--;
+//let r2 = --a;
+console.log(r);
+//console.log(r2);

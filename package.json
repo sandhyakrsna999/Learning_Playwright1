@@ -1,0 +1,26 @@
+{
+  "name": "learning_playwright1",
+  "version": "1.0.0",
+  "description": "A hands-on, chapter-wise learning repository for **Playwright** — the modern end-to-end testing framework — along with foundational **JavaScript** and **Java** concepts needed to master it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandhyakrsna999/Learning_Playwright1.git"
+  },
+  "keywords": [
+    "Playwright"
+  ],
+  "author": "Sandhya",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sandhyakrsna999/Learning_Playwright1/issues"
+  },
+  "homepage": "https://github.com/sandhyakrsna999/Learning_Playwright1#readme",
+  "dependencies": {
+    "playwright": "^1.58.2"
+  }
+}
