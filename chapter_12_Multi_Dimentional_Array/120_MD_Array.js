@@ -12,12 +12,16 @@ let matrix = [
 let matrix_2D = [
     [1, 2, 3, 4],
 ];
-console.log(" ---- ")
+console.log("----")
 let grid = [
     [1, 2, 3],
     [4, 5, 6],
     [7, 8, 9]
 ];
+
+
+// i -> rows
+// j -> columns
 
 for (let i = 0; i < 3; i++) {
     for (let j = 0; j < 3; j++) {
