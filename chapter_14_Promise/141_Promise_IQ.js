@@ -6,6 +6,11 @@
 //     console.log("Answer:", value);
 // });
 
+
+
+
+
+
 // let p = new Promise(function (resolve, reject) {
 //     reject("Something broke");
 // });
@@ -14,6 +19,9 @@
 //     console.log("Caught:", err);
 // });
 
+
+
+
 // let p = Promise.resolve(5);
 
 // p.then(function (val) {
@@ -21,6 +29,8 @@
 // }).then(function (val) {
 //     console.log("Result:", val);
 // });
+
+
 
 // Promise.resolve(1)
 //     .then(function (val) {
@@ -35,6 +45,8 @@
 //         console.log(val);
 //     });
 
+
+
 // Promise.resolve("start")
 //     .then(function (val) {
 //         console.log(val);
@@ -46,6 +58,10 @@
 //     .catch(function (err) {
 //         console.log("Caught:", err.message);
 //     });
+
+
+
+
 
 
 // Promise.reject("Test failed")
@@ -60,6 +76,9 @@
 //     });
 
 
+
+
+
 // Promise.resolve("Quick win").then(function (msg) {
 //     console.log(msg);
 // });
@@ -67,6 +86,9 @@
 // Promise.reject("Quick loss").catch(function (msg) {
 //     console.log(msg);
 // });
+
+
+
 
 
 // let t1 = Promise.resolve("Login: PASS");
@@ -77,6 +99,10 @@
 //     console.log(results);
 // });
 
+
+
+
+
 // let t1 = Promise.resolve("PASS");
 // let t2 = Promise.reject("FAIL");
 // let t3 = Promise.resolve("PASS");
@@ -84,6 +110,10 @@
 // Promise.all([t1, t2, t3])
 //     .then(function (r) { console.log("All:", r); })
 //     .catch(function (err) { console.log("Stopped:", err); });
+
+
+
+
 
 Promise.allSettled([
     Promise.resolve("API 200"),
